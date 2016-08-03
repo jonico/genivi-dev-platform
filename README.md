@@ -1,4 +1,4 @@
-# GENIVI Development Platform
+# GENIVI Development Platform - jonico's fork
 ========================
 
 GENIVI Development Platform is the integration and delivery project that brings together all components developed by GENIVI experts and provides them to developers and users in a consumable way. You can find all the relevant information about GDP in the wiki:

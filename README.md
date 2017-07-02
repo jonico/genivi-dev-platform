@@ -1,12 +1,6 @@
 # GENIVI Development Platform - jonico's fork
 ========================
 
-# Welcome Bosch :tada:
-
-![bosch](https://cloud.githubusercontent.com/assets/1872314/25410996/5f359198-2a1a-11e7-9002-85bba211e38d.jpg)
-
-![](https://camo.githubusercontent.com/f08021a3c40652e932c61ab2b4a004f3a57b8ff7/687474703a2f2f7261636b2e322e6d736863646e2e636f6d2f6d656469612f5a676b794d44457a4c7a41344c7a41314c7a59794c32467559326876636d3168626934324e6a4a6b5953356e6157594b63416c306148567459676b344e5442344f4455775067706c435770775a772f65333664313462642f3163302f616e63686f726d616e2e6a7067)
-
 GENIVI Development Platform is the integration and delivery project that brings together all components developed by GENIVI experts and provides them to developers and users in a consumable way. You can find all the relevant information about GDP in the wiki:
 GDP [landing page](https://projects.genivi.org/gdp): GDP project home page.
 GDP [Download page](https://projects.genivi.org/gdp/download): download GDP binaries, metadata and artifacts.
